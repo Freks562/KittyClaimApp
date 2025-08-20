@@ -1,6 +1,7 @@
 /** @type {import('next').NextConfig} */
-module.exports = {
+const nextConfig = {
   output: 'export',          // static export for Firebase Hosting
   images: { unoptimized: true },
-  devIndicators: false,      // hide Next dev indicators
+  devIndicators: false,      // hide dev overlays
 };
+export default nextConfig;
