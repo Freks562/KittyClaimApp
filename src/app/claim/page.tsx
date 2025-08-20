@@ -1,0 +1,1 @@
+export default function Page(){return(<main className="min-h-screen p-6 max-w-3xl mx-auto space-y-6"><h1 className="text-2xl font-semibold">File a Claim</h1><p>Start a new claim or check an existing one.</p></main>)}

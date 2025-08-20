@@ -5,3 +5,5 @@ out
 .env
 .env.local
 functions/.next
+
+.firebase
